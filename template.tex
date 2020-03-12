@@ -1,0 +1,66 @@
+\documentclass[a4paper, 12pt, oneside]{book}
+%\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+%licencia:
+\usepackage[
+	type={CC},
+	modifier={zero},
+	version={3.0}
+]{doclicense}
+\usepackage{verbatim}
+%custom header:
+\usepackage{fancyhdr}
+\usepackage{float}
+
+\rhead{Ejemplo de \LaTeX{}}
+\lhead{Tu nombre}
+\rfoot{Pagina \thepage}
+\pagestyle{fancy}
+
+\title{Ejemplo de titulo}
+\author{Yo}
+\date{\today}
+
+\makeatletter
+\newcommand\mymaketitle{%
+  \begin{titlepage}
+    \null\vfil\vskip 40\p@
+    \begin{center}
+      {\LARGE \@title \par}
+      \vskip 2.5em
+      {\large \lineskip .75em \@author \par}
+      \vskip 1.5em
+      {\large \@date \par}
+      \vskip 2.5em
+	\graphicspath{ {/home/david/Templates/} }		%modify this to include your own images
+	    \includegraphics[width=0.5\textwidth]{complutense.jpg}
+    \end{center}\par
+    \@thanks
+    \vfil\null
+  \end{titlepage}
+}
+\makeatother
+% Uso esto como una plantilla para vim de mis .tex
+\begin{document}
+\mymaketitle
+\tableofcontents
+\chapter{Capitulo de ejemplo}
+\section{seccion de ejemplo}
+\lipsum[2-5]
+
+\newpage
+\vspace*{\fill}
+\begin{verbatim}
+	Comparto esta plantilla con el mundo :)
+	11-3-2020
+\end{verbatim}
+\LaTeX{} lic. LPPL \& creador \& CC-ZERO
+\doclicenseThis
+
+\end{document}
+
