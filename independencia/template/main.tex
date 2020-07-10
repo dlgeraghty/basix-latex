@@ -1,0 +1,34 @@
+\documentclass[a4paper, 12pt, oneside]{book}
+%\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+%licencia:
+\usepackage[
+        type={CC},
+        modifier={zero},
+        version={3.0}
+]{doclicense}
+\usepackage{verbatim}
+%custom header:
+\usepackage{fancyhdr}
+\usepackage{float}
+
+\input{parts/header}
+
+\begin{document}
+\mymaketitle
+\tableofcontents
+\input{parts/introduccion}
+\input{parts/cuestiones_iniciales}
+\input{parts/habitos}
+\input{parts/independencia}
+\input{parts/notas_finales}
+\listoffigures
+
+\end{document}
+

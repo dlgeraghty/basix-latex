@@ -1,0 +1,23 @@
+\title{Independencia}
+\author{J.David Lopez}
+\date{\today}
+
+\makeatletter
+\newcommand\mymaketitle{%
+  \begin{titlepage}
+    \null\vfil\vskip 40\p@
+    \begin{center}
+      {\LARGE \@title \par}
+      \vskip 2.5em
+      {\large \lineskip .75em \@author \par}
+      \vskip 1.5em
+      {\large \@date \par}
+      \vskip 2.5em
+        \graphicspath{  }               %modify this to include your own images
+            \includegraphics[width=0.5\textwidth]{figures/complutense.png}
+    \end{center}\par
+    \@thanks
+    \vfil\null
+  \end{titlepage}
+}
+\makeatother
