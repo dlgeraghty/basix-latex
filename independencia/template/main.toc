@@ -10,14 +10,14 @@
 \contentsline {subsection}{\numberline {2.2.3}Cual es el minimo grado de independencia?}{4}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {2.2.4}Por que la independencia no es suficiente?}{5}{subsection.2.2.4}
 \contentsline {subsection}{\numberline {2.2.5}Mis influencias}{5}{subsection.2.2.5}
-\contentsline {chapter}{\numberline {3}El Habito}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1} Que es el habito }{7}{section.3.1}
-\contentsline {section}{\numberline {3.2} Que tiene que ver con la (in)dependencia?}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3} Crear/cambiar habitos}{7}{section.3.3}
-\contentsline {chapter}{\numberline {4}La independencia}{8}{chapter.4}
-\contentsline {section}{\numberline {4.1}Como alcanzar la independencia}{8}{section.4.1}
-\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{8}{section.4.2}
-\contentsline {section}{\numberline {4.3}Independencia social}{8}{section.4.3}
-\contentsline {section}{\numberline {4.4}Independencia financiera}{8}{section.4.4}
-\contentsline {section}{\numberline {4.5}Independencia en la informatica}{8}{section.4.5}
-\contentsline {chapter}{\numberline {5}Algunas notas finales}{9}{chapter.5}
+\contentsline {chapter}{\numberline {3}El Habito}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1} Que es el habito }{8}{section.3.1}
+\contentsline {section}{\numberline {3.2} Que tiene que ver con la (in)dependencia?}{8}{section.3.2}
+\contentsline {section}{\numberline {3.3} Crear/cambiar habitos}{8}{section.3.3}
+\contentsline {chapter}{\numberline {4}La independencia}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Como alcanzar la independencia}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}Independencia social}{9}{section.4.3}
+\contentsline {section}{\numberline {4.4}Independencia financiera}{9}{section.4.4}
+\contentsline {section}{\numberline {4.5}Independencia en la informatica}{9}{section.4.5}
+\contentsline {chapter}{\numberline {5}Algunas notas finales}{10}{chapter.5}
