@@ -16,10 +16,10 @@
 \contentsline {section}{\numberline {3.3} Crear/cambiar habitos}{10}{section.3.3}
 \contentsline {chapter}{\numberline {4}La independencia}{13}{chapter.4}
 \contentsline {section}{\numberline {4.1}Como alcanzar la independencia}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Independencia social}{13}{section.4.3}
-\contentsline {section}{\numberline {4.4}Independencia financiera}{13}{section.4.4}
-\contentsline {section}{\numberline {4.5}Independencia en la informatica}{13}{section.4.5}
-\contentsline {chapter}{\numberline {5}Algunas notas finales}{14}{chapter.5}
-\contentsline {chapter}{\'{I}ndice de figuras}{15}{chapter*.2}
-\contentsline {chapter}{Bibliograf\'{\i }a}{16}{chapter*.3}
+\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{14}{section.4.2}
+\contentsline {section}{\numberline {4.3}Independencia social}{14}{section.4.3}
+\contentsline {section}{\numberline {4.4}Independencia financiera}{14}{section.4.4}
+\contentsline {section}{\numberline {4.5}Independencia en la informatica}{14}{section.4.5}
+\contentsline {chapter}{\numberline {5}Algunas notas finales}{15}{chapter.5}
+\contentsline {chapter}{\'{I}ndice de figuras}{16}{chapter*.2}
+\contentsline {chapter}{Bibliograf\'{\i }a}{17}{chapter*.3}
