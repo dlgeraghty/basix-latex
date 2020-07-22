@@ -1,6 +1,7 @@
 \documentclass[a4paper, 12pt, oneside]{book}
 %\documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[spanish]{babel}
 \usepackage{lipsum}
 \usepackage{hyperref}
@@ -21,11 +22,13 @@
 \usepackage{fancyhdr}
 \usepackage{float}
 
+
 \input{parts/header}
 
 \begin{document}
 \mymaketitle
 \tableofcontents
+{\fontfamily{ccr}\selectfont
 \input{parts/introduccion}
 \input{parts/antes_de_leer}
 \input{parts/habitos}
@@ -34,5 +37,6 @@
 \listoffigures
 \bibliographystyle{unsrt}
 \bibliography{citations/habits}
+}
 \end{document}
 
