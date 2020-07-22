@@ -1,25 +1,25 @@
 \babel@toc {spanish}{}
-\contentsline {chapter}{\numberline {1}Introduccion}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}Breve prefacio del autor}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Marco de \LaTeX }{2}{section.1.2}
-\contentsline {chapter}{\numberline {2}Antes de leer estas paginas}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Aviso}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Motivacion para la lectura}{4}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Historia que invita a la reflexion}{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Por que independencia?}{5}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Cual es el minimo grado de independencia?}{5}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Por que la independencia no es suficiente?}{6}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Mis influencias}{6}{subsection.2.2.5}
-\contentsline {chapter}{\numberline {3}El Habito}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1} Que es el habito }{9}{section.3.1}
-\contentsline {section}{\numberline {3.2} Que tiene que ver con la (in)dependencia?}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3} Crear/cambiar habitos}{12}{section.3.3}
-\contentsline {chapter}{\numberline {4}La independencia}{14}{chapter.4}
-\contentsline {section}{\numberline {4.1}Como alcanzar la independencia}{14}{section.4.1}
-\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{15}{section.4.2}
-\contentsline {section}{\numberline {4.3}Independencia social}{16}{section.4.3}
-\contentsline {section}{\numberline {4.4}Independencia financiera}{17}{section.4.4}
-\contentsline {section}{\numberline {4.5}Independencia en la informatica}{17}{section.4.5}
-\contentsline {chapter}{\numberline {5}Algunas notas finales}{18}{chapter.5}
-\contentsline {chapter}{\'{I}ndice de figuras}{19}{chapter*.2}
-\contentsline {chapter}{Bibliograf\'{\i }a}{20}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduccion}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Breve prefacio del autor}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Marco de \LaTeX }{5}{section.1.2}
+\contentsline {chapter}{\numberline {2}Antes de leer estas paginas}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Aviso}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Motivacion para la lectura}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Historia que invita a la reflexion}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Por que independencia?}{8}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Cual es el minimo grado de independencia?}{8}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Por que la independencia no es suficiente?}{9}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Mis influencias}{9}{subsection.2.2.5}
+\contentsline {chapter}{\numberline {3}El Habito}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1} Que es el habito }{13}{section.3.1}
+\contentsline {section}{\numberline {3.2} Que tiene que ver con la (in)dependencia?}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3} Crear/cambiar habitos}{16}{section.3.3}
+\contentsline {chapter}{\numberline {4}La independencia}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Como alcanzar la independencia}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{20}{section.4.2}
+\contentsline {section}{\numberline {4.3}Independencia social}{21}{section.4.3}
+\contentsline {section}{\numberline {4.4}Independencia financiera}{22}{section.4.4}
+\contentsline {section}{\numberline {4.5}Independencia en la informatica}{22}{section.4.5}
+\contentsline {chapter}{\numberline {5}Algunas notas finales}{23}{chapter.5}
+\contentsline {chapter}{\'{I}ndice de figuras}{25}{chapter*.2}
+\contentsline {chapter}{Bibliograf\'{\i }a}{27}{chapter*.3}

@@ -1,5 +1,4 @@
-\documentclass[a4paper, 12pt, oneside]{book}
-%\documentclass[12pt]{article}
+\documentclass[a4paper, 12pt, twoside]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[spanish]{babel}
@@ -21,6 +20,11 @@
 %custom header:
 \usepackage{fancyhdr}
 \usepackage{float}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[CE]{\rightmark}
+\fancyhead[CO]{\leftmark}
+\rfoot{page \thepage}
 
 
 \input{parts/header}
