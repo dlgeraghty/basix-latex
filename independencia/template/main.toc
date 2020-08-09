@@ -5,26 +5,28 @@
 \contentsline {chapter}{\numberline {2}Antes de leer estas paginas}{7}{chapter.2}
 \contentsline {section}{\numberline {2.1}Aviso}{7}{section.2.1}
 \contentsline {section}{\numberline {2.2}Motivacion para la lectura}{7}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Historia que invita a la reflexion}{8}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Por que independencia?}{8}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Cual es el minimo grado de independencia?}{8}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Por que la independencia no es suficiente?}{9}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Mis influencias}{9}{subsection.2.2.5}
-\contentsline {chapter}{\numberline {3}El Habito}{13}{chapter.3}
-\contentsline {section}{\numberline {3.1} Que es el habito }{13}{section.3.1}
-\contentsline {section}{\numberline {3.2} Que tiene que ver con la (in)dependencia?}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3} Crear/cambiar habitos}{16}{section.3.3}
-\contentsline {chapter}{\numberline {4}La independencia}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Como alcanzar la independencia}{19}{section.4.1}
-\contentsline {section}{\numberline {4.2}Independencia en la toma de decisiones}{20}{section.4.2}
-\contentsline {section}{\numberline {4.3}Independencia social}{21}{section.4.3}
-\contentsline {section}{\numberline {4.4}Independencia financiera}{22}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Disclaimer}{22}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Ahorra}{24}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Invierte}{24}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Independencia en la informatica}{26}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1} Hardware }{26}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2} Software }{27}{subsection.4.5.2}
-\contentsline {chapter}{\numberline {5}Algunas notas finales}{31}{chapter.5}
-\contentsline {chapter}{\'{I}ndice de figuras}{33}{chapter*.2}
-\contentsline {chapter}{Bibliograf\'{\i }a}{35}{chapter*.3}
+\contentsline {subsection}{\numberline {2.2.1}Historias que invitan a la reflexion}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Por que independencia?}{9}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Cual es el minimo grado de independencia?}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Por que la independencia no es suficiente?}{10}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Mis influencias}{10}{subsection.2.2.5}
+\contentsline {chapter}{\numberline {3}Como saber quien eres}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}dos herramientas}{13}{section.3.1}
+\contentsline {chapter}{\numberline {4}El Habito}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1} Que es el habito }{15}{section.4.1}
+\contentsline {section}{\numberline {4.2} Que tiene que ver con la (in)dependencia?}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3} Crear/cambiar habitos}{18}{section.4.3}
+\contentsline {chapter}{\numberline {5}La independencia}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Como alcanzar la independencia}{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Independencia en la toma de decisiones}{22}{section.5.2}
+\contentsline {section}{\numberline {5.3}Independencia social}{23}{section.5.3}
+\contentsline {section}{\numberline {5.4}Independencia financiera}{24}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Disclaimer}{24}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Ahorra}{26}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Invierte}{26}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}Independencia en la informatica}{28}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1} Hardware }{28}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2} Software }{29}{subsection.5.5.2}
+\contentsline {chapter}{\numberline {6}Algunas notas finales}{33}{chapter.6}
+\contentsline {chapter}{\'{I}ndice de figuras}{35}{chapter*.2}
+\contentsline {chapter}{Bibliograf\'{\i }a}{37}{chapter*.3}
